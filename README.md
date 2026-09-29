@@ -4,7 +4,7 @@ An intelligent question-answering system that compares **RAG, GraphRAG, and Agen
 
 ## 🚀 Overview
 
-This project was developed for the **TigerGraph Agentic GraphRAG Hackathon – Round 1**.
+This project was developed for the **TigerGraph Agentic GraphRAG Hackathon **.
 
 The system answers questions using three different approaches:
 
@@ -192,6 +192,6 @@ The application provides:
 
 ## 👩‍💻 Project
 
-**Agentic GraphRAG – TigerGraph Hackathon Round 1**
+**Agentic GraphRAG – TigerGraph Hackathon **
 
 Built using Python, Streamlit, TigerGraph, Sentence Transformers, and Groq LLM.
