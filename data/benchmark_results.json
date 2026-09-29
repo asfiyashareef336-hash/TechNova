@@ -1,0 +1,27 @@
+{
+    "questions": 100,
+    "time_seconds": 708.06,
+    "pipelines": [
+        {
+            "pipeline": "RAG",
+            "questions": 100,
+            "accuracy": 74.0,
+            "completeness": 49.01,
+            "tokens": 2943.0
+        },
+        {
+            "pipeline": "GraphRAG",
+            "questions": 100,
+            "accuracy": 76.0,
+            "completeness": 51.55,
+            "tokens": 2818.0
+        },
+        {
+            "pipeline": "Agentic GraphRAG",
+            "questions": 100,
+            "accuracy": 76.0,
+            "completeness": 53.16,
+            "tokens": 2630.0
+        }
+    ]
+}
