@@ -195,3 +195,4 @@ The application provides:
 **Agentic GraphRAG – TigerGraph Hackathon **
 
 Built using Python, Streamlit, TigerGraph, Sentence Transformers, and Groq LLM.
+
